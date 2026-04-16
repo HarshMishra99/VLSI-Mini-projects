@@ -25,3 +25,8 @@ Harsh Mishra
 
 ## 🔗 Run Online
 https://edaplayground.com/playgrounds/user/1064217
+1.  https://edaplayground.com/x/dLad
+2.  https://edaplayground.com/x/T5nJ
+3.  https://edaplayground.com/x/FZ_T
+4.  https://edaplayground.com/x/r3HP
+
