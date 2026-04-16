@@ -1,25 +1,27 @@
-# JK Flip-Flop using D Flip-Flop
+# VLSI Mini Projects (EDA Playground)
 
-## 📌 Description
-This project implements a JK Flip-Flop using a D Flip-Flop and combinational logic in Verilog HDL.
+This repository contains multiple VLSI mini projects implemented using Verilog HDL and SystemVerilog. All projects were designed and simulated using EDA Playground.
 
-## ⚙️ Concept
-The JK Flip-Flop characteristic equation:
-D = J·Q' + K'·Q
+## 📁 Projects Included
 
-This allows realization of JK Flip-Flop using a single D Flip-Flop.
-
-## 📁 Files
-- jkff.v → Verilog design
-- jkff_tb.v → Testbench for simulation
+1. JK Flip-Flop using D Flip-Flop  
+2. 4-bit Mod-13 Counter  
+3. 4-bit Up-Down Counter  
+4. 4x1 Multiplexer Implementation  
+5. SystemVerilog Up-Down Counter  
 
 ## 🛠 Tools Used
-- Verilog HDL
+- Verilog HDL / SystemVerilog
 - EDA Playground
+- Icarus Verilog / ModelSim / Vivado
 
-## ✅ Features
-- Supports all operations: Hold, Reset, Set, Toggle
-- Verified using testbench simulation
+## 📌 Features
+- Modular design approach  
+- Testbench verification  
+- Simulation-based validation  
+
+## 👨‍💻 Author
+Harsh Mishra
 
 ## 🔗 Run Online
-https://edaplayground.com/x/dLad
+https://edaplayground.com/playgrounds/user/1064217
